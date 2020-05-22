@@ -1,5 +1,5 @@
 # FORK AT YOUR OWN RISK
-# Documentation/Guide, visit [How2Techy](https://how2techy.com/x-tra-userbot-plugin-guide-part1/)
+# Documentation/Guide, visit [CAGE Ai](https://t.me/cageherosupport)
 # Installing
 Join https://t.me/userherosupport for updates and tuts
 ### The Easy Way
